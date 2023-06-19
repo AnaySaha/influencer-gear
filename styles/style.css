@@ -6,6 +6,8 @@ body{
 .container{
     background-color: #FFFFFF; 
     margin-top: 250px;
+    margin-left: 190px;
+    margin-right: 198px;
 }
 .header{
     display: flex;
