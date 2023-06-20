@@ -111,18 +111,8 @@ nav a{
     font-size: medium;
     color: white;
 }
-.footer{
-    position: absolute;
-    margin-top: 50px;
-    margin-left: 750px;
-    margin-right: 198px;
-    color: #FFFFFF; 
-}
-.box{   
-    width: 1700px;
-    height: 250px;
-    background-color: black
-}
+
+
 
 /* Media Queries */
 
